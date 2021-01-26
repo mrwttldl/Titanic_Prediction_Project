@@ -35,4 +35,4 @@ I made an exploratory data analysis project using the data set about this event.
 * Data Visualization
 * Data Transformation
 * Feature Engineering
-* Report
+* Slide
