@@ -1,4 +1,4 @@
-# :ocean: Titanic-Dataset-Pre-Processing-Project
+# :ocean: Titanic Machine Learning Project
 
 ![](https://i.milliyet.com.tr/MolatikDetayBig/2020/04/14/fft371_mf33115214.Jpeg) 
 
@@ -7,7 +7,6 @@ The sinking of the RMS( Royal Mail Ship) Titanic is one of the most painful ship
 I made an exploratory data analysis project using the data set about this event.The data has been split into two groups:
 
 * training set (train.csv) : We will use it to build our machine learning model
-* test set (test.csv) : We will use it to see how well our model performs on test data.
 
 ## Dataset Information
 
