@@ -6,8 +6,6 @@ The sinking of the RMS( Royal Mail Ship) Titanic is one of the most painful ship
 
 I made an exploratory data analysis project using the data set about this event.The data has been split into two groups:
 
-* training set (train.csv) : We will use it to build our machine learning model
-
 ## Dataset Information
 
 1. **Survived**: Survivors on Titanic ship 1, survivors 0, TARGET
@@ -27,6 +25,8 @@ I made an exploratory data analysis project using the data set about this event.
 
 ## Content
 
+### Preprocessing Steps
+
 * Load and Check Data
 * Missing Value Control
 * Target Visualization
@@ -35,3 +35,6 @@ I made an exploratory data analysis project using the data set about this event.
 * Data Transformation
 * Feature Engineering
 
+### Machine Learning Algorithms
+
+* Logistic Regression Algorithm
