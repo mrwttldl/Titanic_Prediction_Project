@@ -1,4 +1,4 @@
-# :ocean: Titanic Machine Learning Project
+# :ocean: Titanic Prediction Project
 
 ![](https://i.milliyet.com.tr/MolatikDetayBig/2020/04/14/fft371_mf33115214.Jpeg) 
 
