@@ -22,7 +22,7 @@ The sinking of the RMS( Royal Mail Ship) Titanic is one of the most painful ship
 1. **Embarked**:  Port names (C, Q, S) C = Cherbourg, Q = Queenstown, S = Southampton
 1. **Survived** = TARGET VALUE
 
-
+öö
 ## :art: Content
 
 ### Preprocessing Steps
