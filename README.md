@@ -35,6 +35,6 @@ The sinking of the RMS( Royal Mail Ship) Titanic is one of the most painful ship
 * Data Transformation
 * Feature Engineering
 
-### Machine Learning Algorithms
+### :mechanical_arm: Machine Learning Algorithms
 
 * Logistic Regression Algorithm
